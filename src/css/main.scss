@@ -1,0 +1,26 @@
+// General
+
+// colors
+$bg-color: #1b4553;
+$main-color: #f4d442;
+$secondary-color: #4dd;
+$text-color: #25c39d;
+
+
+// Main styles
+
+body {
+    background: $bg-color;
+}
+
+h2 {
+    color: $main-color;
+}
+
+h3 {
+    color: $secondary-color;
+}
+
+p {
+    color: $text-color;
+}
